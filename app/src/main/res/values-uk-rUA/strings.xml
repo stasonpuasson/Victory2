@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Вікторина</string>
+    <string name="introduce">Представтесь</string>
+    <string name="gotovictory">Розпочати</string>
+    <string name="answer">Відповісти</string>
+    <string-array name="questions">
+        <item>Поведінка класу описується за допомогою</item>
+        <item>Запитання 2</item>
+        <item>Запитання 3</item>
+        <item>Запитання 4</item>
+        <item>Запитання 5</item>
+    </string-array>
+
+    <string-array name="answersQuest1">
+        <item>Об’єктів</item>
+        <item>Полів</item>
+        <item>Методів</item>
+        <item>Інтерфейсів</item>
+    </string-array>
+
+    <string-array name="answersQuest2">
+        <item>Аргентина2</item>
+        <item>Колумбия2</item>
+        <item>Чили2</item>
+        <item>Уругвай2</item>
+    </string-array>
+
+    <string-array name="answersQuest3">
+        <item>Аргентина3</item>
+        <item>Колумбия3</item>
+        <item>Чили3</item>
+        <item>Уругвай3</item>
+    </string-array>
+
+    <string-array name="answersQuest4">
+        <item>Аргентина4</item>
+        <item>Колумбия4</item>
+        <item>Чили4</item>
+        <item>Уругвай4</item>
+    </string-array>
+
+    <string-array name="answersQuest5">
+        <item>Аргентина5</item>
+        <item>Колумбия5</item>
+        <item>Чили5</item>
+        <item>Уругвай5</item>
+    </string-array>
+</resources>
